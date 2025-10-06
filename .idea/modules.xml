@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CLASESPW.iml" filepath="$PROJECT_DIR$/.idea/CLASESPW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODIGOS_FPRO/DAM/DAM.iml" filepath="$PROJECT_DIR$/CODIGOS_FPRO/DAM/DAM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODIGOS_PRO/DAM/DAM2.iml" filepath="$PROJECT_DIR$/CODIGOS_PRO/DAM/DAM2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODIGOS_FPRO/DAW/DAW.iml" filepath="$PROJECT_DIR$/CODIGOS_FPRO/DAW/DAW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODIGOS_PRO/DAW/DAW2.iml" filepath="$PROJECT_DIR$/CODIGOS_PRO/DAW/DAW2.iml" />
+    </modules>
+  </component>
+</project>
